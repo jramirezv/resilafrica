@@ -1,0 +1,4 @@
+{
+  "_doc": "Provenance register. One entry per file in site/data/ (this file excluded). Required: file, title, source, retrieved (YYYY-MM-DD). Optional: licence, derived_by (tools/ script), notes.",
+  "files": []
+}
